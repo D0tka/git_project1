@@ -1,2 +1,1 @@
-print("Моя первая задача в Гит")
-print(("222"))
+print("My first git-repo")
